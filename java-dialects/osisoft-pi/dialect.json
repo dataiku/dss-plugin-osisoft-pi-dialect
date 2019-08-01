@@ -1,0 +1,6 @@
+{
+    "meta" :{
+        "label": "OSISoft PI"
+    },
+    "dialectClass":"com.dataiku.dip.sql.OSISoftPISQLDialect"
+}

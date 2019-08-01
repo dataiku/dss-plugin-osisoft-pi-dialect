@@ -1,0 +1,14 @@
+{
+    "id" : "osisoft-pi-dialect",
+    "version" : "0.0.1",
+
+    "meta" : {
+        "label": "Experimental OSISoft PI dialect",
+        "description" : "This plugin provides a SQL dialect for connecting to OSISoft PI through a JDBC connection to PIOLEDB",
+        "icon" : "icon-puzzle-piece",
+        "author": "Dataiku",
+        "licenseInfo" : "Apache Software License",
+        "url" : "https://github.com/dataiku/dss-plugin-osisoft-pi-dialect",
+        "tags" : ["Database"]
+    }
+}
